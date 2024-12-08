@@ -1,0 +1,10 @@
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\Ônthuyettrinh\source\btTuan3\Bai1\Bai1\obj\Debug\Bai1.pdb
