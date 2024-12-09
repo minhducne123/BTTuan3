@@ -1,0 +1,27 @@
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài 3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài_3.Form1.resources
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài_3.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài 3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bài 3\Bài 3\bin\Debug\Bài 3.exe.config
+C:\Users\Admin\source\repos\Bài 3\Bài 3\bin\Debug\Bài 3.exe
+C:\Users\Admin\source\repos\Bài 3\Bài 3\bin\Debug\Bài 3.pdb
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài 3.exe
+C:\Users\Admin\source\repos\Bài 3\Bài 3\obj\Debug\Bài 3.pdb
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\bin\Debug\Bài 3.exe.config
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\bin\Debug\Bài 3.exe
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\bin\Debug\Bài 3.pdb
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài 3.csproj.AssemblyReference.cache
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài_3.Form1.resources
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài_3.Properties.Resources.resources
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài 3.csproj.GenerateResource.cache
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài 3.csproj.CoreCompileInputs.cache
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài 3.exe
+E:\BTLapTrinh\source\btTuan3\Bai_3\Bài 3\obj\Debug\Bài 3.pdb
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\Bài 3.csproj.AssemblyReference.cache
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\bai3.Form1.resources
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\Bài_3.Properties.Resources.resources
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\Bài 3.csproj.GenerateResource.cache
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\Bài 3.csproj.CoreCompileInputs.cache
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\Bài 3.exe
+E:\BTLapTrinh\source\btTuan3\Bai3\Bài 3\obj\Debug\Bài 3.pdb

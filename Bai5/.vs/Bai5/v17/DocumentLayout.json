@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|e:\\btlaptrinh\\source\\bttuan3\\bai5\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|solutionrelative:bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|e:\\btlaptrinh\\source\\bttuan3\\bai5\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|solutionrelative:bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|e:\\btlaptrinh\\source\\bttuan3\\bai5\\bai5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|solutionrelative:bai5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|e:\\btlaptrinh\\source\\bttuan3\\bai5\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D0F50A-23D2-4C9F-81CE-6CDD04EE1ACF}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:36:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai5\\Form1.Designer.cs",
+              "ToolTip": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai5\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:35:25.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5\\Form1.cs",
+              "ToolTip": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Form1.cs",
+              "RelativeToolTip": "Bai5\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:34:55.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5\\Form1.cs",
+              "ToolTip": "E:\\BTLapTrinh\\source\\btTuan3\\Bai5\\Bai5\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:34:53.012Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
